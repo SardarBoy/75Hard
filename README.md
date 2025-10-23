@@ -5,4 +5,4 @@ This repository documents my daily progress across:
 - **DSA with Python** 
 - **SQL** 
 - **PySpark** 
-- **Notes** — my rough notes of key takeaways and concepts.
+- **Notes** — my rough notes of key concepts.
