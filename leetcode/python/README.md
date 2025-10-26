@@ -5,3 +5,5 @@
 **Remove Element** – Practiced in-place array manipulation using two pointers.
 
 **Two Sum** - Importance of dictionaries for fast lookup
+
+**Majority element** - Learnt logic behind Boyer Moore Voting Algorithm - majority element occurs more than half the time & non majority element will cancel out in the end
