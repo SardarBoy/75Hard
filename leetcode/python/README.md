@@ -7,3 +7,5 @@
 **Two Sum** - Importance of dictionaries for fast lookup
 
 **Majority element** - Learnt logic behind Boyer Moore Voting Algorithm - majority element occurs more than half the time & non majority element will cancel out in the end
+
+**Merge sort** - Learned the divide-and-conquer approach, getting time complexity to O(nlogn) compared to other sorts
