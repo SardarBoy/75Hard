@@ -9,3 +9,6 @@
 
 *Data Lemur*-
 **Linkedin** - Using SUM + HAVING , group by- Treat all rows with the same candidate_id as one group, then calculate the SUMs for each group.
+
+*Strata Scratch*-
+**Salaries Difference** - Can solve this using CTE, as well as AGGREGATIONS inside CASE
