@@ -13,3 +13,5 @@
 **Sort Colors** – Learned the Dutch National Flag problem , in place array manipulation, one pass algorithm with constant extra space.
 
 **Top K Frequent Elements** - Learnt Bucket sort- grouping elements by frequency, and how to implement in O(n) time
+
+**Missing number** -  Used mathematics - formula to find sum of natural numbers (n*(n+1))//2
