@@ -12,3 +12,5 @@
 
 *Strata Scratch*-
 **Salaries Difference** - Can solve this using CTE, as well as AGGREGATIONS inside CASE
+
+**Boolean Expression**- two joins + aliases + CASE = evaluate expressions row by row.
