@@ -1,0 +1,1 @@
+select w.warehouse_name, SUM(w.units*p.Width *p.Length *p.Height) from Warehouse w join Products p on w.product_id=p.product_id group by w.warehouse_name
