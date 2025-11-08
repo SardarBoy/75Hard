@@ -19,3 +19,5 @@
 **The Latest Login in 2020**- Combining CTE with RANK 
 
 **Team Scores in Football Tournament** - Subquery + Case + Join + Union
+
+**Warehouse manager**- understood how JOIN + calculation + SUM + GROUP BY works.
