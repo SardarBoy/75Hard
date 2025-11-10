@@ -18,4 +18,6 @@
 
 **Best Time to Buy and Sell Stock I** -  Understood how to do it in single pass, by tracking lowest price so far
 
-**Best Time to Buy and Sell Stock II r** -  Greedy Approach, capturing every small profit , also in single pass
+**Best Time to Buy and Sell Stock II** -  Greedy Approach, capturing every small profit , also in single pass
+
+**Contains Duplicate II** -  Hashing- constant time operations 
