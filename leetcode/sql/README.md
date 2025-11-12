@@ -21,3 +21,5 @@
 **Team Scores in Football Tournament** - Subquery + Case + Join + Union
 
 **Warehouse manager**- understood how JOIN + calculation + SUM + GROUP BY works.
+
+**Find Total Time Spent by Each Employee** - using 2 columns inside groupby
