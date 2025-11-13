@@ -24,4 +24,6 @@
 
 **Find Total Time Spent by Each Employee** - using 2 columns inside groupby
 
-**Immediate Food Delivery** - Find the percentage of immediate orders (order_date = customer_pref_delivery_date) by using a CASE inside SUM,
+**Immediate Food Delivery** - Find the percentage of immediate orders (order_date = customer_pref_delivery_date) by using a CASE inside SUM
+
+**Immediate Food Delivery II** - Used CTE + above logic to first rank customers by date using RANK, and then filtering them out 
