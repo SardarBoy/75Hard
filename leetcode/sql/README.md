@@ -23,3 +23,5 @@
 **Warehouse manager**- understood how JOIN + calculation + SUM + GROUP BY works.
 
 **Find Total Time Spent by Each Employee** - using 2 columns inside groupby
+
+**Immediate Food Delivery** - Find the percentage of immediate orders (order_date = customer_pref_delivery_date) by using a CASE inside SUM,
