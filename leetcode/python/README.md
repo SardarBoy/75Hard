@@ -23,3 +23,5 @@
 **Contains Duplicate II** -  Hashing- constant time operations 
 
 **Longest Substring Without Repeating Characters** -  Sliding Window
+
+**Valid Palindrome** -  Using Two pointers and multiple while loops for O(n) time complexity and no extra space required
