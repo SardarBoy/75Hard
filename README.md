@@ -6,4 +6,4 @@ This repository documents my daily progress across:
 - **SQL** 
 - **Working on a Azure Data Factory- Databricks, PySpark**
  
-- **Notes** — my rough notes of key concepts.
+- **Notes** — my rough notes of key concepts
