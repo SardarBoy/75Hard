@@ -6,6 +6,6 @@ This repository documents my daily progress across:
 - **SQL** 
 - **Working on My Azure Data Engineering project here**: [AzureProject Repository](https://github.com/SardarBoy/AzureProject)
  
-- **Notes** — my rough notes of key concepts
+- **Notes** — my rough notes 
 
 
